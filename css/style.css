@@ -292,7 +292,7 @@ button.how-it-works {
 }
 
 button.how-it-works:hover {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 section.home-pic > img{
@@ -543,7 +543,7 @@ div.cd-timeline-content img {
   border-radius: 0.25em;
 }
 .no-touch .cd-timeline-content .cd-read-more:hover {
-  background-color: #bac4cb;
+  background-color: rgba(0,0,0.8);
 }
 .cd-timeline-content .cd-date {
   float: left;
